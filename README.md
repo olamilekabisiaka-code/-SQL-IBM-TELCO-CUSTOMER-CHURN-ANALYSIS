@@ -168,3 +168,8 @@ These patterns can help a telecom company investigate potential retention opport
 
 ---
 
+👤 Author
+
+Habib Isiaka
+
+Aspiring Data Analyst | SQL | Power BI | Excel | Python
